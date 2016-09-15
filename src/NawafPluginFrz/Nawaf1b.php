@@ -1,8 +1,8 @@
 <?php
 
-namespace NawafPluginFrz;
+namespace M7mmdgamer7PluginFrz;
 
-class Nawaf1b extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Listener{
+class plugmcpe extends \pocketmine\plugin\PluginBase implements \pocketmine\event\Listener{
     
     public $freeze = array();
     
